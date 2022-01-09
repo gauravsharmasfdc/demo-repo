@@ -1,3 +1,4 @@
 Commit One - Local Master
 Commit Two - Local Master
 Commit Three - Local Master
+Commit Four - Local Master

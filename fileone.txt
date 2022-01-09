@@ -1,3 +1,4 @@
 Commit One - Local Master
 Commit Two - Local Master
 Commit One - Local Feature
+Commit Three - Local Master
